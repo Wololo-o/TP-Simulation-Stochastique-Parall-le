@@ -2,16 +2,16 @@
 
 echo "" > resultats.txt
 
-./tp5_mc MTStatus1 >> resultats.txt &
-./tp5_mc MTStatus2 >> resultats.txt &
-./tp5_mc MTStatus3 >> resultats.txt &
-./tp5_mc MTStatus4 >> resultats.txt &
-./tp5_mc MTStatus5 >> resultats.txt &
-./tp5_mc MTStatus6 >> resultats.txt &
-./tp5_mc MTStatus7 >> resultats.txt &
-./tp5_mc MTStatus8 >> resultats.txt &
-./tp5_mc MTStatus9 >> resultats.txt &
-./tp5_mc MTStatus10 >> resultats.txt &
+./estimationPI MTStatus1 >> resultats.txt &
+./estimationPI MTStatus2 >> resultats.txt &
+./estimationPI MTStatus3 >> resultats.txt &
+./estimationPI MTStatus4 >> resultats.txt &
+./estimationPI MTStatus5 >> resultats.txt &
+./estimationPI MTStatus6 >> resultats.txt &
+./estimationPI MTStatus7 >> resultats.txt &
+./estimationPI MTStatus8 >> resultats.txt &
+./estimationPI MTStatus9 >> resultats.txt &
+./estimationPI MTStatus10 >> resultats.txt &
 
 wait
 
