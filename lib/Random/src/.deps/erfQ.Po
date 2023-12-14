@@ -1,0 +1,54 @@
+erfQ.o erfQ.o: erfQ.cc ../CLHEP/Random/Stat.h ../CLHEP/Random/defs.h \
+  ../CLHEP/Random/defs.h \
+  /usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/cmath \
+  /usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/i386-redhat-linux/bits/c++config.h \
+  /usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/i386-redhat-linux/bits/os_defines.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/gnu/stubs.h \
+  /usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/bits/cpp_type_traits.h \
+  /usr/include/math.h /usr/include/bits/huge_val.h \
+  /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+  /usr/include/bits/inf.h /usr/include/bits/nan.h \
+  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+  /usr/include/bits/mathinline.h \
+  /usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/bits/cmath.tcc
+
+../CLHEP/Random/Stat.h:
+
+../CLHEP/Random/defs.h:
+
+../CLHEP/Random/defs.h:
+
+/usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/cmath:
+
+/usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/i386-redhat-linux/bits/c++config.h:
+
+/usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/i386-redhat-linux/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/bits/cpp_type_traits.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/usr/lib/gcc/i386-redhat-linux/3.4.4/../../../../include/c++/3.4.4/bits/cmath.tcc:
